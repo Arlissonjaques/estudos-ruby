@@ -1,4 +1,4 @@
 
-# puts é usado no Ruby para mostrar coisas na tela!
+# puts é usado no Ruby para mostrar coisas no terminal!
 
 puts "Hello, world!"
