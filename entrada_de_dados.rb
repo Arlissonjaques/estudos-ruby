@@ -4,4 +4,7 @@
 print "Digite seu nome: " 
 nome = gets.chomp
 
-puts nome
+print "Digite sua idade: "
+idade = gets.to_i
+
+puts nome, idade
